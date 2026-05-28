@@ -7,7 +7,7 @@
 - 💡 Passionate about solving real-life problems
 - 📫 Reach me: maindsakshi@gmail.com
 
-- [![Skills](https://skillicons.dev/icons?i=react,,js,nodejs,git,firebase,vscode,arduinoIDE,python,cpp)](https://skillicons.dev)
+- [![Skills](https://skillicons.dev/icons?i=react,,javascript,nodejs,git,firebase,vscode,arduinoIDE,python,cpp)](https://skillicons.dev)
 
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
