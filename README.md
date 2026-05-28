@@ -122,10 +122,10 @@ AL/ML developer
 
 [![Sakshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewiz248&theme=tokyo-night&hide_border=true)](https://github.com/codewiz248)
 
-## 👾 Pac-Man Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewiz248/codewiz248/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/codewiz248/codewiz248/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## ✨ Fun Fact
