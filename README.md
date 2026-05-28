@@ -4,14 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AL/ML developer
 ---------------
 
-\## 🛠️ About Me
+\🛠️ About Me
 
 \- 🌱 Currently exploring \*\* DSA, AI Agents & ML\*\*
-
 \- 👯 Excited to collaborate on \*\*Machine learning project\*\*
-
 \- 💡 Passionate about solving real-life problems
-
 \- 📫 Reach me: maindsakshi@gmail.com
 
 <br> <br>
@@ -22,7 +19,7 @@ AL/ML developer
 
 ## 🚀 Skills
 ## 🚀 Technologies & Tools
-## 🚀 Technologies & Tools
+
 
 <table align="center">
   <tr>
