@@ -1,27 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sakshi Maind
-=====================================================================================================================================
+<div align="center">
 
-AL/ML developer
----------------
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
 
-\🛠️ About Me
+# Hi, I'm Sakshi Maind
 
-\- 🌱 Currently exploring \*\* DSA, AI Agents & ML\*\*
+**AI/ML Developer · Agentic AI Enthusiast · Problem Solver**
 
-\- 👯 Excited to collaborate on \*\*Machine learning project\*\*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-techsakshi--maind-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techsakshi-maind)
+[![GitHub](https://img.shields.io/badge/GitHub-codewiz248-181717?style=flat&logo=github&logoColor=white)](https://github.com/codewiz248)
+[![Email](https://img.shields.io/badge/Email-maindsakshi001%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maindsakshi001@gmail.com)
 
-\- 💡 Passionate about solving real-life problems
+</div>
 
-\- 📫 Reach me: maindsakshi@gmail.com
+---
 
-<br> <br>
-* 🌍  I'm based in Nagpur
-* ✉️  You can contact me at [maindsakshi001@gmail.com](mailto:maindsakshi001@gmail.com)
-* 🧠  I'm currently learning Agentic AI
-* 👥  I'm looking to collaborate on projects based on AL/ML
+## 👩‍💻 About Me
 
-## 🚀 Skills
-## 🚀 Technologies & Tools
+I'm an AI/ML developer based in **Nagpur, India**, passionate about building intelligent systems that solve real-world problems.
+
+- 🌱 Currently diving deep into **DSA, AI Agents & Machine Learning**
+- 🤝 Looking to collaborate on **ML/AI projects** — let's build something meaningful!
+- 🧠 Exploring the frontier of **Agentic AI**
+- 💡 Driven by the belief that technology should make life better
+
+---
+
+## 🛠️ Technologies & Tools
 
 
 <table align="center">
@@ -47,28 +51,37 @@ AL/ML developer
   </tr>
 </table>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/codewiz248" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/techsakshi-maind" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=codewiz248&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+<div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewiz248&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 
-## 📈 GitHub Activity Graph
+<br/>
 
-[![Sakshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewiz248&theme=tokyo-night&hide_border=true)](https://github.com/codewiz248)
+[![Sakshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewiz248&theme=tokyo-night&hide_border=true)](https://github.com/codewiz248)
 
+</div>
 
+---
 
-## ✨ Fun Fact
+## ✨ My Mantra
 
 ```python
-while(notSuccess):
-    keepLearning()
-    buildProjects()
-    stayConsistent()
+while not success:
+    keep_learning()
+    build_projects()
+    stay_consistent()
+    embrace_failures_as_lessons()
+```
+
+> *"Every expert was once a beginner. Keep going."*
+
+---
+
+<div align="center">
+
+⭐ **If you find my work interesting, lets collaborate!**
+
+</div>
