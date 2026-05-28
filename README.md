@@ -7,8 +7,11 @@ AL/ML developer
 \🛠️ About Me
 
 \- 🌱 Currently exploring \*\* DSA, AI Agents & ML\*\*
+
 \- 👯 Excited to collaborate on \*\*Machine learning project\*\*
+
 \- 💡 Passionate about solving real-life problems
+
 \- 📫 Reach me: maindsakshi@gmail.com
 
 <br> <br>
